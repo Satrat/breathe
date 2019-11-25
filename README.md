@@ -1,5 +1,5 @@
 # Breathe
-Breathe is an algorithmic composition that capturing the breathe signal of a musician as they improvise to manipulate the frequency spectrum of their instrument and control granular synthesis
+Breathe is an algorithmic composition that captures the breathing of a musician as they improvise to manipulate the frequency spectrum of their instrument and control granular synthesis
 
 ## Dependencies
 * [Max MSP](https://cycling74.com/)
